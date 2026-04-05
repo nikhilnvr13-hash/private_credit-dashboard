@@ -1,5 +1,14 @@
 # Private Credit Market Dashboard
 
+## Tableau dashboard
+![Tableau](tableau_view.png)
+
+## Excel dashboard
+![Excel](dashboard.png)
+
+## Excel data
+![Excel](data_input.png)
+
 ## Overview
 An automated financial dashboard designed to monitor private credit market conditions using proxies and credit risk indicators.
 
@@ -29,15 +38,6 @@ An automated financial dashboard designed to monitor private credit market condi
 2.Extracts latest weekly values
 3.Updates Excel dashboard immediately
 4.Tableau reads updated data for visualization
-
-## Tableau dashboard
-![Tableau](tableau_view.png)
-
-## Excel dashboard
-![Excel](dashboard.png)
-
-## Excel data
-![Excel](data_input.png)
 
 ## Author 
 Nikhil Venkatareddy
